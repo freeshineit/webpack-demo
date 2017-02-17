@@ -24,4 +24,5 @@
 在控制台中运行`npm run webpack`
 
 结果：
-![npm 脚本运行webpack]('https://github.com//freeshineit/webpack-demo/blob/master/readme-images/2FEFCDDE-88E7-46D3-9B7D-E273620FAD67.png?raw=true')
+![npm 脚本运行webpack](https://github.com//freeshineit/webpack-demo/blob/master/readme-images/2FEFCDDE-88E7-46D3-9B7D-E273620FAD67.png?raw=true)
+
